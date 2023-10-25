@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dhfxfy6nr3haa"]
+
+[ext_resource type="Texture2D" uid="uid://becmh4hkylfav" path="res://assets/H2A/roomsignBG.png" id="1_l8js2"]
+
+[node name="H2A" type="Sprite2D"]
+position = Vector2(960, 540)
+texture = ExtResource("1_l8js2")
+metadata/_edit_lock_ = true
